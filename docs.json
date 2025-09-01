@@ -13,6 +13,7 @@
       {
         "dropdown": "Talent",
         "description": "For individual users",
+        "icon": "user",
         "groups": [
           {
             "group": "Getting started",
@@ -33,6 +34,7 @@
       {
         "dropdown": "Business",
         "description": "For business users",
+        "icon": "building",
         "groups": [
           {
             "group": "Getting started",
@@ -53,6 +55,7 @@
       {
         "dropdown": "Legal",
         "description": "Documents and policies",
+        "icon": "scale",
         "pages": [
               "legal/terms-of-service",
               "legal/privacy-policy",
