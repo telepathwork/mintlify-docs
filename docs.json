@@ -9,9 +9,9 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "dropdowns": [
       {
-        "tab": "For Talent",
+        "dropdown": "For Talent",
         "groups": [
           {
             "group": "Getting started",
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "tab": "For Business",
+        "dropdown": "For Business",
         "groups": [
           {
             "group": "Getting started",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "tab": "Legal",
+        "dropdown": "Legal",
         "pages": [
               "legal/terms-of-service",
               "legal/privacy-policy",
