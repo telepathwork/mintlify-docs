@@ -11,45 +11,48 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "For Talent",
+        "dropdown": "Talent",
+        "description": "For individual users",
         "groups": [
           {
             "group": "Getting started",
             "pages": [
               "talent/profile",
-              "talent/profile"
+              "talent/verification"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Settings",
             "pages": [
-              "talent/profile",
-              "talent/profile"
+              "talent/settings/account",
+              "talent/settings/notifications"
             ]
           }
         ]
       },
       {
-        "dropdown": "For Business",
+        "dropdown": "Business",
+        "description": "For business users",
         "groups": [
           {
             "group": "Getting started",
             "pages": [
               "business/company-profile",
-              "business/company-profile"
+              "business/post-a-job"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Settings",
             "pages": [
-              "business/company-profile",
-              "business/company-profile"
+              "business/settings/settings",
+              "business/settings/settings"
             ]
           }
         ]
       },
       {
         "dropdown": "Legal",
+        "description": "Documents and policies",
         "pages": [
               "legal/terms-of-service",
               "legal/privacy-policy",
