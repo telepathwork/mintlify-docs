@@ -4,7 +4,7 @@
   "name": "Telepath Help Center",
   "colors": {
     "primary": "#3F1B97",
-    "light": "#07C983",
+    "light": "#3F1B97",
     "dark": "#3F1B97"
   },
   "favicon": "/favicon.svg",
