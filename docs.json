@@ -5,7 +5,7 @@
   "colors": {
     "primary": "#3F1B97",
     "light": "#3F1B97",
-    "dark": "#3F1B97"
+    "dark": "#5925dc"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -19,22 +19,6 @@
               "index",
               "quickstart",
               "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
             ]
           },
           {
