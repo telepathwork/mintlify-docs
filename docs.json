@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Telepath Doc",
+  "theme": "maple",
+  "name": "Telepath Help Center",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#3F1B97",
     "light": "#07C983",
     "dark": "#15803D"
   },
