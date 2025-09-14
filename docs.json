@@ -53,6 +53,14 @@
         ]
       },
       {
+        "dropdown": "Partner",
+        "description": "For partners",
+        "icon": "handshake",
+        "pages": [
+              "partner/payment-policy"
+            ]
+      },
+      {
         "dropdown": "Legal",
         "description": "Documents and policies",
         "icon": "scale",
